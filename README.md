@@ -16,6 +16,8 @@ This is simple web project, deployment can be on any web server or eve local fil
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 
 ### Copyright
 
